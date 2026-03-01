@@ -41,7 +41,7 @@ Formatted result is sent back to Slack
 ```
 slack-data-bot/
 ├── .env                  # Secret keys (never push to GitHub)
-├── .env.example          # Template for environment variables
+├── .env_sample          # Template for environment variables
 ├── .gitignore            # Excludes .env and node_modules
 ├── package.json          # Project dependencies
 ├── seed.sql              # Database schema and sample data
