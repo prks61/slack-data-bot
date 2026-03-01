@@ -97,7 +97,7 @@ Before setting up, make sure you have:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/slack-data-bot.git
+git clone https://github.com/prks61/slack-data-bot.git
 cd slack-data-bot
 ```
 
