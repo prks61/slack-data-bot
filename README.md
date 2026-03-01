@@ -112,7 +112,7 @@ npm install
 Copy the example file and fill in your credentials:
 
 ```bash
-cp .env.example .env
+cp .env_sample
 ```
 
 Open `.env` and fill in all values (see **Getting Your Tokens** section below).
@@ -233,4 +233,4 @@ MIT License — feel free to use and modify.
 
 ## 👤 Author
 
-Built as an internship assignment to demonstrate NL→SQL pipeline using LangChain, Slack API, and PostgreSQL.
+Built as an assignment to demonstrate NL→SQL pipeline using LangChain, Slack API, and PostgreSQL.
